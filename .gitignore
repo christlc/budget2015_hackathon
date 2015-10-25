@@ -1,0 +1,4 @@
+output/*
+parsed/*
+raw/*
+.ipynb_checkpoints/*
