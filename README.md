@@ -26,9 +26,11 @@ pip install pandas
 Under R,
 
 1. shiny
+2. dplyr
 
 ```
 install.packages('shiny')
+install.packages('dplyr')
 ```
 
 You will also need GNU make in order to run this code.
